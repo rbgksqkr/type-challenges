@@ -1,3 +1,6 @@
+# 🔥 start gyu's type-challenges
+
+
 <p align='center'>
   <img src='./screenshots/logo.svg' width='400'/>
 </p>
